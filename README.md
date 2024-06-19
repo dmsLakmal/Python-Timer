@@ -1,4 +1,6 @@
 # Countdown Timer
+![image](https://github.com/dmsLakmal/Python-Timer/assets/143265507/cd27f364-94ba-4c87-8ba7-f1a2a66031c3)
+
 This is a simple Python script that acts as a countdown timer. You can enter the time in seconds, and it will count down from that time, 
 displaying the remaining months, days, hours, minutes, and seconds.
 
